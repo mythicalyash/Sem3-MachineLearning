@@ -363,6 +363,8 @@ rng.choice([1, 2, 3, 4, 5], size=3, replace=False)   # random sample, no repeats
 rng.shuffle(a)                              # shuffles `a` in place
 ```
 
+![Summary](npRAndomSummary.png)
+
 Always pass a seed when you need reproducible results (tests, tutorials, debugging).
 
 ## 16. Linear algebra basics
